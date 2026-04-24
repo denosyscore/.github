@@ -1,6 +1,6 @@
 <p align="center"><a href="https://denosys.com" target="_blank"><img src="https://denosys.com/assets/denosyslogo.svg" width="400"></a></p>
 
---
+---
 
 ## About DenoSys LTD
 
