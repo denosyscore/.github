@@ -1,4 +1,4 @@
-<p align="center"><a href="https://denosys.com" target="_blank"><img src="https://denosys.com/assets/logo-light.svg" width="400"></a></p>
+<p align="center"><a href="https://denosys.com" target="_blank"><img src="https://denosys.com/assets/logo-light.svg" width="300"></a></p>
 
 ---
 
