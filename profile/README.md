@@ -1,5 +1,6 @@
 <p align="center"><a href="https://denosys.com" target="_blank"><img src="https://denosys.com/assets/denosyslogo.svg" width="400"></a></p>
 
+## About DenoSys LTD
 
 DenoSys LTD is a technology company focused on building secure, scalable, and practical software solutions for businesses, startups, and institutions.
 
